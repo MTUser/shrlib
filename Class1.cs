@@ -8,5 +8,11 @@ namespace ShareLib2
 {
     public class Class1
     {
+       public string GetData()
+        {
+
+            return "This is th Intial Commit";
+
+        }
     }
 }
